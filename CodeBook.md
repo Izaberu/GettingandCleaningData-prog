@@ -3,8 +3,9 @@ Code book for Programming Assignment of Getting and Cleaning Data
     - subject unique identifier 
     - values 1 to 30
 * activity 
-    -describes activity for which is measured
-     -values 1 to 6
+    - describes activity for which is measured
+    - values 1 to 6
+
 The following columns contain the means of the measurement of the mean and standard deviation of each measurement. 
 * tBodyAcc.mean...X
 * tBodyAcc.mean...Y
